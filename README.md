@@ -5,7 +5,7 @@
 * 💻 I have over 3 year of experience as a Frontend Developer.
 * 🔭 I am currently looking for a job as a Front-end developer.
 * 👯 I will be glad to share my experience and learn from other developers.
-* 🇬🇧 I also have a proficiency in English so I can work with foreign partners.
+* 🇬🇧 I also have a proficiency in English(B2+-C1) so I can work with foreign partners.
 
 ## My stack :rocket:
 ![HTML](/svg/html-5.svg)
