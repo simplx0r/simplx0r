@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Danil
+## Hi there 👋 My name is Daniil
 
 * 😊 I'm responsible, motivated, hard-working Fullstack (Go/React) open to work now.
 * 😍 I like uncommon tasks in programming because it's interesting for me to create something, to make user interfaces live and friendly.
